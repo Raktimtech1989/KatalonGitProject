@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Monitors (2)</name>
+   <tag></tag>
+   <elementGuidId>dfabb711-9c81-4813-a08d-07f5ca581091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='narbar-menu']/ul/li[3]/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e8e20b1-221e-4529-bfbb-472e418885ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo.opencart.com/index.php?route=product/category&amp;language=en-gb&amp;path=25_28</value>
+      <webElementGuid>46ae4698-5734-4c94-938a-81cfc67f00ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>73e6e479-b524-44aa-807f-83679cc2107c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitors (2)</value>
+      <webElementGuid>9b718cd1-d038-492d-81d6-4f08f425369a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;narbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>6fa69eb2-6ee3-4deb-892f-0ed1ca5c5eb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='narbar-menu']/ul/li[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>30dde619-2dfb-4a2f-8d25-7bb29ab0e94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Monitors (2)')]</value>
+      <webElementGuid>fb86a834-180d-4770-b2c5-6ed9ad6ecf5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mice and Trackballs (0)'])[1]/following::a[1]</value>
+      <webElementGuid>32120024-de77-4042-874a-eba93e69791d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Components'])[1]/following::a[2]</value>
+      <webElementGuid>568d2231-8774-4dab-9445-7d4f8b32e5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Printers (0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a166add-8f11-478b-8b68-959e389aba6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scanners (0)'])[1]/preceding::a[2]</value>
+      <webElementGuid>a790b313-b713-477d-ac3b-c9d1d6fb773d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monitors (2)']/parent::*</value>
+      <webElementGuid>9bf25968-e432-4a8d-9274-771485b5e366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo.opencart.com/index.php?route=product/category&amp;language=en-gb&amp;path=25_28')]</value>
+      <webElementGuid>16a59dcc-06b8-4a23-911a-b6afbdabe49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>ebec6adb-d4f1-446a-a84a-63511b418c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo.opencart.com/index.php?route=product/category&amp;language=en-gb&amp;path=25_28' and (text() = 'Monitors (2)' or . = 'Monitors (2)')]</value>
+      <webElementGuid>fb1add16-bbc6-4c40-b5fe-cbd502367e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

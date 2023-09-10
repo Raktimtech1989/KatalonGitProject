@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apple Cinema 30</name>
+   <tag></tag>
+   <elementGuidId>4dc3b52a-571a-43d6-8cd5-0680393299cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div/form/div/div[2]/div/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6881de9c-70c0-4010-bce9-691eea8fb708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo.opencart.com/index.php?route=product/product&amp;language=en-gb&amp;path=25_28&amp;product_id=42</value>
+      <webElementGuid>e32e94c7-2085-4937-9393-6e636ee2a576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple Cinema 30&quot;</value>
+      <webElementGuid>1f12617e-90f6-4f5d-b90d-9271ceb65159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col&quot;]/form[1]/div[@class=&quot;product-thumb&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;description&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>19b9d124-8d99-4b81-b6ac-6392abdb9859</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div/form/div/div[2]/div/h4/a</value>
+      <webElementGuid>764483a5-68cd-40e9-a906-e928b3bb4e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apple Cinema 30&quot;')]</value>
+      <webElementGuid>c657ba89-63d1-430e-b577-7e4c77214eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::a[2]</value>
+      <webElementGuid>2176be15-42ea-43ed-9279-ed67572b715a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::a[2]</value>
+      <webElementGuid>62c48d66-bf03-4b7d-980d-57f9c05ee14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$110.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>19ac2f0e-4541-4775-959d-f7326f00b652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>156fc42b-0779-4695-90be-b80aed41bb29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple Cinema 30&quot;']/parent::*</value>
+      <webElementGuid>32d7b30e-c4f9-405c-9989-50577ce6c846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo.opencart.com/index.php?route=product/product&amp;language=en-gb&amp;path=25_28&amp;product_id=42')])[2]</value>
+      <webElementGuid>7049671d-1b81-4737-919a-59d16be6dffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a</value>
+      <webElementGuid>84d4e49d-15db-43b3-ba46-e0a1f593a5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo.opencart.com/index.php?route=product/product&amp;language=en-gb&amp;path=25_28&amp;product_id=42' and (text() = 'Apple Cinema 30&quot;' or . = 'Apple Cinema 30&quot;')]</value>
+      <webElementGuid>37b91fe7-ce3f-4e4e-8d2e-cb806b8e4c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
